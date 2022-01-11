@@ -1,1 +1,17 @@
-
+# humanstxt.org/
+# the himans responsible & technology colophon
+# this is a demo of git pull command
+# this is a mac demo..2
+#
+# TEAM
+  
+  <name> -- <role> -- <twitter>
+  
+ # THANKS
+ 
+    <name>
+    
+  # TECHNOLOGY COLOPHON
+  
+    HTML5, CSS3
+    jQuery, Modernizr
